@@ -3,10 +3,6 @@
 
 **Data and viz of interest**
 
-1. Find a journal or newspaper article that relates data science to a humanities topic that you are interested in.
-  * Add a hypertext link to the article in the next cell and comment on why it interests you.
-2. Find a data visualization that you would love to know how to make with Python
-  * Include the image in the next cell too and comment on why you like it.
 [Data Science and the Humanities: A Mutually Beneficial Relationship](https://devoelmoorecenter.com/2020/11/08/data-science-and-the-humanities-a-mutually-beneficial-relationship/)
 
 This article serves as a good introduction into the crossing of technical and humanitarian focused individuals - it brings up interesting statistics and mentions the rise of non-technical individuals in STEM fields.
@@ -21,10 +17,6 @@ Principal Components Analysis is a very useful statistical tool, and making 3D P
 
 <b>Ideas for data to investigate</b>
 
-In the cell below:
-1. Write a bulleted list of 2 or 3 humanities topics of interest to you.
-2. Do a quick search for data and/or articles related to those topics, and write a numbered list of links to your search results.
-    
 </div>
 
 
@@ -55,12 +47,7 @@ Name | Description | Hypertext Link
 --- | --- | ---
 Sources of income, and expenditures, for college athletics | The data shoes where money is coming from and where it is going in college athletics. Coding could be useful for examining this dataset as trends could quickly be found - you could examine the top revenue sources very quickly and the top destinations for where the money ends up. | [College Athletics Revenue/Expenditure Data](https://knightnewhousedata.org/)
  Nixon White House Recordings | The data includes sound recordings of Nixon's telephone calls recorded at both the white house and the Camp David retreat. Coding could be useful for this dataset as it could be run through a speech->text converter, and then the text could be analyzed for sentiments, intentions, etc... It'd provide some synopsis into Nixon's conversations much quicker than a human listening to the audio recordings. | [Nixon Tapes](https://www.archives.gov/open/nixon/37-wht-dataset-conversationlist.html)
-<div class="alert alert-info">
 
-<b>Submit</b>
 
-Submit this assignment by:
-1. Saving the file
-2. Clicking on the Submit button at the top
 
-</div>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nickmakaha/DH140_Nicholas/main)
