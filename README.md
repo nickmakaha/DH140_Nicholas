@@ -1,51 +1,5 @@
 # DH140_Nicholas
 
-## Notes
-
-* There are many guides out there on how to use markdown syntax.  The following is one example you may find useful:
-  * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* In this assignment notebook, you will find that you are unable to alter the content of the cells that I have written -> this is on purpose.  However, you will be able to edit and run all response cells.
-* After writing your responses in markdown, execute the cells so that your markdown text gets rendered.
-<div class="alert alert-info">
-
-<b>Initial step:</b>
-
-Open the cell below in edit mode (by double-clicking on it), look at how it is written, and then run it.  Make sure you understand how the text is marked up to get the header style, italics, bold, and a bulleted list.
-    
-</div>
-(double-click here to edit)
-
-# First example
-
-This is one example of a *cell* that is written using **markdown** syntax.
-
-It uses:
-* '#' for a header
-* '*' for italics
-* '**' for bold
-<div class="alert alert-info">
-
-<b>Personal Profile:</b>
-
-Use markdown in the cell below to write a personal profile.  
-    
-This should include:
-1. your name, styled as an H1 header (see for example the above cheatsheet)
-2. your major in bold font
-3. your year in school in italics
-4. a description of why you are interested in the course, in normal font.
-
-</div>
-# Nicholas Johnson
-**Computer Science & Engineering**
-
-*Senior*
-
-I am interesting in learning how coding can apply to the humanities realm and seeing how the technical and humanitarian fields can intersect.
-
-
-
-<div class="alert alert-info">
 
 **Data and viz of interest**
 
